@@ -1,6 +1,6 @@
 # Intelligent-Robotics-Reactive-Behavior
 
-Using the **Robobo** robot, consisting of a mobile platform and a smartphone attached to it, this project develops a **reactive architecture on subsumed behaviors** to perform a task. This task involves **detection of boxes around a map, loading the boxes in a platform and unloading them in their associated deposit zones.** The detection and matching of boxes and containers is supported by **Aruco codes**. All of this is done while tracking the battery charge and stopping any action to look for the re-charging zone before it runs out of battery.
+Using the **Robobo** robot, consisting of a mobile platform and a smartphone attached to it, this project develops a **reactive architecture of subsumed behaviors** to perform a task. This task involves **detection of boxes around a map, loading the boxes in a platform and unloading them in their associated deposit zones.** The detection and matching of boxes and containers is supported by **Aruco codes**. All of this is done while tracking the battery charge and stopping any action to look for the re-charging zone before it runs out of battery.
 
 As an intelligent robot, the architecture developed allows the robot to act in its environment and meet its objectives regardless of its initial position or orientation and regardless of whether the positions of some of the objects change, that is, it tolerates changes in the environment.
 
